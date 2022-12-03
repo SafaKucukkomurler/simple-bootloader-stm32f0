@@ -1,0 +1,5 @@
+../Core/Src/parser.c:36:17:communication_layer_handler	32	static
+../Core/Src/parser.c:54:24:receive_handler	16	static
+../Core/Src/parser.c:144:24:parse_handler	16	static
+../Core/Src/parser.c:196:24:process_handler	16	static
+../Core/Src/parser.c:257:17:answer_handler	16	static

@@ -1,0 +1,3 @@
+../Core/Src/bootloader.c:16:6:jump_user_app	24	static,ignoring_inline_asm
+../Core/Src/bootloader.c:47:6:flash_erase_handler	48	static
+../Core/Src/bootloader.c:77:6:flash_write_handler	48	static
